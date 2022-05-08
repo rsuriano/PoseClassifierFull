@@ -1,0 +1,13 @@
+elbows
+horizontal
+idle
+left_closed
+left_elbow
+left_open
+left_single
+right_closed
+right_elbow
+right_open
+right_single
+v-shape
+vertical

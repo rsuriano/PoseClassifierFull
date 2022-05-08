@@ -1,0 +1,8 @@
+elbows
+horizontal
+idle
+left_elbow
+left_single
+right_elbow
+right_single
+v-shape
